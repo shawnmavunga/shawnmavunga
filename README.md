@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shawn mavunga
+- 👋 Hi, I’m Shawn Mavunga
 - 👀 I’m interested in Data Science, DevOps and Cloud applications
 - 🌱 I’m currently learning Data Science and ML/AI models
 - 💞️ I’m looking to collaborate on interesting DS projects for price predictions on equities, sport betting models, other interesting applications of data science
